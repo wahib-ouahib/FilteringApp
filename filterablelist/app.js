@@ -5,5 +5,9 @@ let filterInput = document.getElementById("filterInput");
 filterInput.addEventListener('keyup', filterNames);
 
 function filterNames(){
-    console.log(1);
+    // Get value of input
+
+    let filterValue = document.getElementById("filterInput").innerHTML;
+   
 }
+console.log(filterNames());

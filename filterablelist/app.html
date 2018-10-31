@@ -6,17 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet"
      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/css/materialize.css">
+    <link rel="stylesheet" href="app.css">
     <title>Filtering app</title>
+    
 </head>
 <body>
     <div class="container">
-        <h1 align="center">
+        <h3 id="test" align ="center">
             Contacts
-        </h1>
+        </h3>
         <input type="text" id="filterInput" placeholder="Search Names...">
         <ul id="names" class="collection with-header">
-            <li class="collection-header">
-                <h4>A</h4>
+            <li id="a" class="collection-header">
+                <span>A</span>
                 
             </li>
             <li class="collection-header">
@@ -35,8 +37,8 @@
         </ul>
 
         <ul id="names" class="collection with-header">
-            <li class="collection-header">
-            <h4>B</h4>
+            <li id="b" class="collection-header">
+                <span>B</span>
             </li>
             <li class="collection-header">
                     
@@ -54,8 +56,8 @@
         </ul>
 
         <ul id="names" class="collection with-header">
-            <li class="collection-header">
-            <h5>C</h5>
+            <li id="c" class="collection-header">
+            <span>C</span>
             </li>
             <li class="collection-header">
                     
@@ -75,5 +77,6 @@
     </div>
  
     <script src="app.js"></script>
+    
 </body>
 </html>
