@@ -5,8 +5,11 @@ span{
   
 }
 
-#test{
+.item2{
   color: #5f84be;
+  -webkit-animation-delay: 0s;
+  -webkit-animation-duration: 2s;
+
 }
 
 #a{
