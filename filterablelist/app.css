@@ -2,8 +2,12 @@
   margin: 0%;
   padding: 0%
 }
+li{
+  
+    display: flex;
+    justify-content: space-between;
 
-
+}
 
 
 span{
@@ -38,4 +42,16 @@ body{
     max-width: 800px;
     margin: auto;
 
+}
+
+#icon{
+  color: #5f84be;
+}
+
+#brahim{
+  color: white;
+}
+
+#icon2{
+  color: azure;
 }
