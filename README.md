@@ -3,14 +3,19 @@
 
 # Review
 
-## searching names
+##   Searching names
 
 
 ![](filterablelist/img/1.gif)
 
 
-## adding some sass and animations to the list
+##   Adding some sass and animations to the list
 
 
 
 ![](filterablelist/img/2.gif)
+
+
+##   :fire: Animation+Functionality
+
+![](filterablelist/img/4.PNG)
