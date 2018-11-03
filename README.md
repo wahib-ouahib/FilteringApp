@@ -18,4 +18,4 @@
 
 ##   :fire: Animation+Functionality
 
-![](filterablelist/img/4.gif)
+![](filterablelist/img/4.PNG)
