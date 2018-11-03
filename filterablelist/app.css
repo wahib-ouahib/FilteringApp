@@ -31,3 +31,11 @@ span{
 #c{
   background-color: #bdf0f1;
 }
+
+body{
+  
+  
+    max-width: 800px;
+    margin: auto;
+
+}
