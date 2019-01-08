@@ -9,7 +9,7 @@
 ![](filterablelist/img/1.gif)
 
 
-##   Adding some sass and animations to the list
+##   Adding some animations & using sass
 
 
 
